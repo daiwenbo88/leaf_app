@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="leafColor">#FECD52</color>
+    <color name="mountainColor_01">#A6DC86</color>
+    <color name="mountainColor_02">#24A061</color>
+    <color name="mountainColor_03">#C9E8B9</color>
+    <color name="fengLeafColor">#D41C1D</color>
+    <color name="fengLeafColor_01">#CD7D41</color>
+    <color name="fengLeafColor_03">#EE524B</color>
+</resources>
